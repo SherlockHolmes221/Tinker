@@ -1,0 +1,2 @@
+com/example/tinker/MainActivity.class
+com/example/tinker/BaseApplication.class
